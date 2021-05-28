@@ -22,7 +22,6 @@ if __name__ == '__main__':
     # setup dependent paths
     DIR_OUTPUT_CATEGORY = os.path.join(DIR_OUTPUT, category)
     FILE_SETTINGS = os.path.join(DIR_OUTPUT_CATEGORY, 'example_learned_settings')
-    FILE_TRAINING = os.path.join(DIR_OUTPUT_CATEGORY, 'example_training.json')
     
     
     # ## LOAD DATA

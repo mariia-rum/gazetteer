@@ -18,7 +18,7 @@ def preprocess(titles, max_title_len=60):
         titles
         .str.lower()
         .str.replace(r'[\/,.&;:()\-]', ' ', regex=True)
-        .str.replace(r'[^A-Za-z ]', '', regex=True)
+        .str.replace(r'[^A-Za-z0-9 ]', '', regex=True)
         .str.replace(r' +', ' ', regex=True)
         .str.strip()
     )
@@ -55,7 +55,6 @@ words_expand = {
     r"hr": "human resources",
     r"it": "information technology",
     r"ai": "artificial intelligence",
-    r"sdr": "sales development representative",
-    
+    r"sdr": "sales development representative"
 }
 words_expand = {fr'\b{key}\b': val for key, val in words_expand.items()}
