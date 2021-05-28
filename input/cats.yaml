@@ -1,159 +1,165 @@
 Marketing:
+  - Vice President of Marketing
   - Marketing Specialist
   - Marketing Manager
   - Marketing Director
-  - Graphic Designer
   - Marketing Research Analyst
   - Marketing Communications Manager
   - Marketing Consultant
   - Product Manager
-  - Public Relations
+  - Project Manager 
   - Social Media Assistant
   - Brand Manager
-  - Search Engine Optimization (SEO) Manager
   - Content Marketing Manager
   - Copywriter
-  - Media Buyer
-  - Digital Marketing Manager
-  - eCommerce Marketing Specialist
+  - Digital marketing and Search Engine Optimization (SEO) Manager
   - Brand Strategist
-  - Vice President of Marketing
   - Media Relations Coordinator
 Administrative:
-  - Administrative Assistant
-  - Receptionist
-  - Office Manager
-  - Auditing Clerk
-  - Bookkeeper
-  - Account Executive
-  - Branch Manager
-  - Business Manager
-  - Quality Control Coordinator
-  - Administrative Manager
-  - Chief Executive Officer
-  - Business Analyst
-  - Risk Manager
-  - Human Resources
-  - Office Assistant
-  - Secretary
-  - Office Clerk
-  - File Clerk
-  - Account Collector
-  - Administrative Specialist
-  - Executive Assistant
-  - Program Administrator
-  - Program Manager
   - Administrative Analyst
-  - Data Entry
+  - Administrative Assistant
+  - Administrative Manager
+  - Administrative Director
+  - Administrative Specialist
+  - Vice President of Administration
+  - Branch Manager
+  - Business Analyst
+  - Business Manager
+  - Clerk
+  - Office Assistant
+  - Office Manager
+  - Program Administrator
+  - Quality Control Coordinator
+  - Receptionist
+  - Risk Manager
+  - Secretary
 CLevel:
-  - CEO—Chief Executive Officer
-  - COO—Chief Operating Officer
-  - CFO—Chief Financial Officer
-  - CIO—Chief Information Officer
-  - CTO—Chief Technology Officer
-  - CMO—Chief Marketing Officer
-  - CHRO—Chief Human Resources Officer
-  - CDO—Chief Data Officer
-  - CPO—Chief Product Officer
-  - CCO—Chief Customer Officer
+  - Chief Administrative Officer (CAO) 
+  - Chief Analytics Officer (CAO)
+  - Chief Brand Officer (CBO) 
+  - Chief Business Development Officer (CBDO)
+  - Chief Business Officer (CBO) 
+  - Chief Commercial Officer (CCO) 
+  - Chief Communications Officer (CCO)  
+  - Chief Compliance Officer (CCO) 
+  - Chief Creative Officer (CCO) 
+  - Chief Content Officer (CCO) 
+  - Chief Customer Officer (CCO).
+  - Chief Data Officer (CDO) 
+  - Chief Design Officer (CDO) 
+  - Chief Digital Officer (CDO) 
+  - Chief Events Officer (CVO) 
+  - Chief Executive Officer (CEO) 
+  - Chief Experience Officer (CXO) 
+  - Chief Financial Officer (CFO)  
+  - Chief Growth Officer (CGO) 
+  - Chief Human Resources Officer (CHRO)
+  - Chief Information Officer (CIO) 
+  - Chief Information Security Officer (CISO) 
+  - Chief Innovation Officer (CINO)
+  - Chief Investment Officer (CIO) 
+  - Chief Legal Officer (CLO) 
+  - Chief Marketing Officer (CMO) 
+  - Chief Media Officer (CMO) 
+  - Chief Medical Officer (CMO)
+  - Chief Operating Officer (COO) 
+  - Chief People Officer (CPO) 
+  - Chief Privacy Officer (CPO)
+  - Chief Process Officer (CPO) 
+  - Chief Product Officer (CPO) 
+  - Chief Reputation Officer (CRO) 
+  - Chief Research Officer (CRO) 
+  - Chief Restructuring Officer (CRO) 
+  - Chief Revenue Officer (CRO) 
+  - Chief Risk Officer (CRO)
+  - Chief Scientific Officer (CSO)
+  - Chief Security Officer (CSO) 
+  - Chief Services Officer (CSO) 
+  - Chief Solutions Officer (CSO)
+  - Chief Strategy Officer (CSO) 
+  - Chief Supply Chain Officer (CSCO) 
+  - Chief Sustainability Officer (CSO) 
+  - Chief Technology Officer (CTO) 
 Information Technology:
-  - Computer Scientist
-  - Information Technology (IT) Professional
+  - Data Scientist
   - UX Designer & UI Developer
-  - SQL Developer
   - Web Designer
   - Web Developer
+  - Systems Analyst 
+  - System Administrator 
   - Help Desk Worker/Desktop Support
-  - Software Engineer
+  - Software and Application Engineer
   - Data Entry
-  - DevOps Engineer
-  - Computer Programmer
-  - Network Administrator
-  - Information Security Analyst
+  - Data Analyst
+  - Cyber Security Analyst
   - Artificial Intelligence Engineer
-  - Cloud Architect
   - Information Technology (IT) Manager
+  - Information Technology (IT) Director
+  - Information Technology (IT) Analyst 
   - Technical Specialist
   - Application Developer
-  - Chief Technology Officer (CTO)
-  - Chief Information Officer (CIO)
+  - Computer Support Specialist 
+  - Computer Network Specialist 
+  - Cloud Computing Engineer
+  - Data Base Administrator 
+  - Quality Assurance(QA) Analyst 
+  - Quality Assurance(QA) Tester   
 Sales Job Titles:
   - Sales Associate
-  - Sales Representative
-  - Sales Manager
-  - Retail Worker
+  - Sales Director
   - Store Manager
   - Sales Representative
+  - Vice president of sales
   - Sales Manager
   - Real Estate Broker
-  - Sales Associate
-  - Cashier
-  - Store Manager
   - Account Executive
   - Account Manager
-  - Area Sales Manager
   - Direct Salesperson
   - Director of Inside Sales
-  - Outside Sales Manager
+  - External Sales Manager
   - Sales Analyst
   - Market Development Manager
   - B2B Sales Specialist
   - Sales Engineer
   - Merchandising Associate
-Construction:
-  - Construction Worker
-  - Taper
-  - Plumber
-  - Heavy Equipment Operator
-  - Vehicle or Equipment Cleaner
-  - Carpenter
-  - Electrician
-  - Painter
-  - Welder
-  - Handyman
-  - Boilermaker
-  - Crane Operator
-  - Building Inspector
-  - Pipefitter
-  - Sheet Metal Worker
-  - Iron Worker
-  - Mason
-  - Roofer
-  - Solar Photovoltaic Installer
-  - Well Driller
 BusinessOwner:
-  - CEO—Chief Executive Officer
   - Proprietor
   - Principal
   - Owner
   - President
   - Founder
-  - Administrator
-  - Director
+  - Partner
+  - Managing Director
   - Managing Partner
   - Managing Member
 CustomerService:
   - Virtual Assistant
   - Customer Service
   - Customer Support
-  - Concierge
-  - Help Desk
+  - Vice President of customer service
+  - Director of customer service
   - Customer Service Manager
+  - Customer (Client) Service Specialist
   - Technical Support Specialist
   - Account Representative
-  - Client Service Specialist
   - Customer Care Associate
 OperationsBusiness:
   - Operations Manager
   - Operations Assistant
   - Operations Coordinator
-  - Operations Analyst
   - Operations Director
   - Vice President of Operations
-  - Operations Professional
   - Scrum Master
   - Continuous Improvement Lead
   - Continuous Improvement Consultant
+  - Operations Specialist
+  - Operations Analyst
+  - Operations Engineer
+  - Process Engineer
+  - Program Manager
+  - Business Operations Specialist
+  - Operations Technician
+  - Operations Consultant
 FinanceAndAccounting:
   - Credit Authorizer
   - Benefits Manager
@@ -161,7 +167,9 @@ FinanceAndAccounting:
   - Accountant
   - Bookkeeper
   - Accounting Analyst
+  - Accounting Representative
   - Accounting Director
+  - Accounting Coordinator 
   - Accounts Payable/Receivable Clerk
   - Auditor
   - Budget Analyst
@@ -175,14 +183,13 @@ FinanceAndAccounting:
   - Financial Services Representative
   - Finance Director
   - Commercial Loan Officer
+  - Account Collector
 Engineering:
-  - Engineer
   - Mechanical Engineer
-  - Civil Engineer
+  - Project Engineer
   - Electrical Engineer
   - Assistant Engineer
   - Chemical Engineer
-  - Chief Engineer
   - Drafter
   - Engineering Technician
   - Geological Engineer
@@ -193,22 +200,24 @@ Engineering:
   - Petroleum Engineer
   - Plant Engineer
   - Production Engineer
-  - Quality Engineer
   - Safety Engineer
-  - Sales Engineer
 ResearcherAndAnalyst:
   - Researcher
   - Research Assistant
-  - Data Analyst
-  - Business Analyst
-  - Financial Analyst
+  - Research Scientist
+  - Research Specialist
+  - Director of Research
+  - Research Engineer
+  - Vice President Research
+  - Research Associate
   - Biostatistician
-  - Title Researcher
-  - Market Researcher
-  - Title Analyst
+  - Research Manager
+  - Research Coordinator
   - Medical Researcher
+  - Research Technologist
 Teacher:
   - Mentor
+  - Coach
   - Tutor/Online Tutor
   - Teacher
   - Teaching Assistant
@@ -237,7 +246,6 @@ Artistic:
   - Director of Photography
 Healthcare:
   - Nurse
-  - Travel Nurse
   - Nurse Practitioner
   - Doctor
   - Caregiver
@@ -246,56 +254,42 @@ Healthcare:
   - Pharmacist
   - Pharmacy Assistant
   - Medical Administrator
+  - Medical Director
   - Medical Laboratory Tech
   - Physical Therapy Assistant
   - Massage Therapy
-  - Dental Hygienist
+  - Dentist
   - Orderly
   - Personal Trainer
   - Massage Therapy
-  - Medical Laboratory Tech
   - Phlebotomist
+  - Orthodontist
   - Medical Transcriptionist
-  - Telework Nurse/Doctor
-  - Reiki Practitioner
 Hospitality:
   - Housekeeper
-  - Flight Attendant
   - Travel Agent
-  - Hotel Front Door Greeter
-  - Bellhop
   - Cruise Director
   - Entertainment Specialist
   - Hotel Manager
-  - Front Desk Associate
-  - Front Desk Manager
-  - Concierge
-  - Group Sales
   - Event Planner
-  - Porter
   - Spa Manager
   - Wedding Coordinator
   - Cruise Ship Attendant
-  - Casino Host
+  - Director of Casino
   - Hotel Receptionist
   - Reservationist
   - Events Manager
   - Meeting Planner
   - Lodging Manager
   - Director of Maintenance
-  - Valet
 FoodService:
-  - Waiter/Waitress
-  - Server
   - Chef
-  - Fast Food Worker
-  - Barista
-  - Line Cook
-  - Cafeteria Worker
+  - Director of Kitchen
+  - Kitchen Support
+  - Kitchen Manager
+  - Kitchen Assosiate
+  - Food Coordinator
   - Restaurant Manager
-  - Wait Staff Manager
-  - Bus Person
-  - Restaurant Chain Executive
 Scientist:
   - Political Scientist
   - Chemist
@@ -307,30 +301,72 @@ Scientist:
   - Astronomer
   - Atmospheric Scientist
   - Molecular Scientist
-OnThePhone:
-  - Call Center Representative
-  - Customer Service
-  - Telemarketer
-  - Telephone Operator
-  - Phone Survey Conductor
-  - Dispatcher for Trucks or Taxis
-  - Customer Support Representative
-  - Over the Phone Interpreter
-  - Phone Sales Specialist
-  - Mortgage Loan Processor
+  - Food Scientist
+  - Formulation Scientist
+  - Principal Scientist
+  - Immunology Scientist
+  - Translational Scientist
+  - Production Scientist
+  - Fermentation Scientist
+  - Clinical Scientist
 Counseling:
   - Counselor
-  - Mental Health Counselor
-  - Addiction Counselor
   - School Counselor
   - Speech Pathologist
   - Guidance Counselor
   - Social Worker
   - Therapist
-  - Life Coach
-  - Couples Counselor
-# Other:
-#   - Personal Assistant
+  - Benefits Counselor
+  - Mental Health Counselor
+  - Social Counselor
+  - Housing (Residential) Counselor
+  - Insurance Counselor
+  - Genetic Counselor
+Ecommerce:
+  - Ecommerce Business Analyst 
+  - Ecommerce Project Manager 
+  - Ecommerce Customer Service Represenative
+  - Ecommerce Clerks 
+  - Ecommerce Analyst
+  - Ecommerce Content Writer
+  - Ecommerce Product Manager 
+  - Ecommerce Manager
+  - Ecommerce Consultant
+  - Ecommerce Specialist
+  - Ecommerce Merchandiser
+  - Director Of Ecommerce
+  - Vice President Of Ecommerce
+Other:
+  - Personal Assistant
+  - Executive Assistant
+Legal: 
+  - Legal Counsel
+  - Compliance Counsel
+  - Director of Legal
+  - Vice President of Legal
+  - Legal Assistant 
+  - Paralegal
+  - Paralegal Assistant
+  - Legal Secretary 
+  - Patent Agent
+  - Contract Administrator
+  - Legal Aid
+  - Compliance Specialist
+  - Legal Analyst
+  - Legal Consultant
+  - Contract Analyst
+  - Legal Writer
+  - Legal Strategist
+  - Attorney
+  - Compliance Manager
+HumanResources:
+  - Employment (Human Resources) Specialist 
+  - Human Resources Assistant 
+  - Human Resources Coordinator
+  - Recruitment Manager
+  - Human Resources Generalist 
+  - Director of Human resources 
+  
 #   - Entrepreneur
 #   - Security Guard
 #   - Mechanic
@@ -340,5 +376,4 @@ Counseling:
 #   - HVAC Technician
 #   - Attorney
 #   - Paralegal
-#   - Executive Assistant
-#   - Personal Assistant
+
