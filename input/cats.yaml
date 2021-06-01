@@ -1,8 +1,8 @@
 Marketing:
-  - Vice President of Marketing
+  #- Vice President of Marketing
   - Marketing Specialist
   - Marketing Manager
-  - Marketing Director
+  #- Marketing Director
   - Marketing Research Analyst
   - Marketing Communications Manager
   - Marketing Consultant
@@ -10,18 +10,18 @@ Marketing:
   - Project Manager 
   - Social Media Assistant
   - Brand Manager
-  - Content Marketing Manager
   - Copywriter
   - Digital marketing and Search Engine Optimization (SEO) Manager
   - Brand Strategist
   - Media Relations Coordinator
+  - Media Operations Coordinator
 Administrative:
   - Administrative Analyst
   - Administrative Assistant
   - Administrative Manager
-  - Administrative Director
+  #- Administrative Director
   - Administrative Specialist
-  - Vice President of Administration
+  #- Vice President of Administration
   - Branch Manager
   - Business Analyst
   - Business Manager
@@ -80,7 +80,7 @@ CLevel:
   - Chief Supply Chain Officer (CSCO) 
   - Chief Sustainability Officer (CSO) 
   - Chief Technology Officer (CTO) 
-Information Technology:
+InformationTechnology:
   - Data Scientist
   - UX Designer & UI Developer
   - Web Designer
@@ -94,7 +94,7 @@ Information Technology:
   - Cyber Security Analyst
   - Artificial Intelligence Engineer
   - Information Technology (IT) Manager
-  - Information Technology (IT) Director
+  #- Information Technology (IT) Director
   - Information Technology (IT) Analyst 
   - Technical Specialist
   - Application Developer
@@ -104,18 +104,18 @@ Information Technology:
   - Data Base Administrator 
   - Quality Assurance (QA) Analyst 
   - Quality Assurance (QA) Tester   
-Sales Job Titles:
+Sales:
   - Sales Associate
-  - Sales Director
+  #- Sales Director
   - Store Manager
   - Sales Representative
-  - Vice president of sales
+  #- Vice president of sales
   - Sales Manager
   - Real Estate Broker
   - Account Executive
   - Account Manager
   - Direct Salesperson
-  - Director of Inside Sales
+  #- Director of Inside Sales
   - External Sales Manager
   - Sales Analyst
   - Market Development Manager
@@ -129,15 +129,15 @@ BusinessOwner:
   - President
   - Founder
   - Partner
-  - Managing Director
-  - Managing Partner
-  - Managing Member
+  - Director
+  - Partner
+  - Member
 CustomerService:
   - Virtual Assistant
   - Customer Service
   - Customer Support
-  - Vice President of customer service
-  - Director of customer service
+  #- Vice President of customer service
+  #- Director of customer service
   - Customer Service Manager
   - Customer (Client) Service Specialist
   - Technical Support Specialist
@@ -147,8 +147,8 @@ OperationsBusiness:
   - Operations Manager
   - Operations Assistant
   - Operations Coordinator
-  - Operations Director
-  - Vice President of Operations
+  #- Operations Director
+  #- Vice President of Operations
   - Scrum Master
   - Continuous Improvement Lead
   - Continuous Improvement Consultant
@@ -168,7 +168,7 @@ FinanceAndAccounting:
   - Bookkeeper
   - Accounting Analyst
   - Accounting Representative
-  - Accounting Director
+  #- Accounting Director
   - Accounting Coordinator 
   - Accounts Payable/Receivable Clerk
   - Auditor
@@ -181,7 +181,7 @@ FinanceAndAccounting:
   - Payroll Clerk
   - Financial Planner
   - Financial Services Representative
-  - Finance Director
+  #- Finance Director
   - Commercial Loan Officer
   - Account Collector
 Engineering:
@@ -206,9 +206,9 @@ ResearcherAndAnalyst:
   - Research Assistant
   - Research Scientist
   - Research Specialist
-  - Director of Research
+  #- Director of Research
   - Research Engineer
-  - Vice President Research
+  #- Vice President Research
   - Research Associate
   - Biostatistician
   - Research Manager
@@ -240,10 +240,10 @@ Artistic:
   - Photographer
   - Camera Operator
   - Sound Engineer
-  - Motion Picture Director
+  #- Motion Picture Director
   - Actor
   - Music Producer
-  - Director of Photography
+  #- Director of Photography
 Healthcare:
   - Nurse
   - Nurse Practitioner
@@ -254,7 +254,7 @@ Healthcare:
   - Pharmacist
   - Pharmacy Assistant
   - Medical Administrator
-  - Medical Director
+  #- Medical Director
   - Medical Laboratory Tech
   - Physical Therapy Assistant
   - Massage Therapy
@@ -268,23 +268,22 @@ Healthcare:
 Hospitality:
   - Housekeeper
   - Travel Agent
-  - Cruise Director
+  #- Cruise Director
   - Entertainment Specialist
   - Hotel Manager
   - Event Planner
-  - Spa Manager
   - Wedding Coordinator
   - Cruise Ship Attendant
-  - Director of Casino
+  #- Director of Casino
   - Hotel Receptionist
   - Reservationist
   - Events Manager
   - Meeting Planner
   - Lodging Manager
-  - Director of Maintenance
+  #- Director of Maintenance
 FoodService:
   - Chef
-  - Director of Kitchen
+  #- Director of Kitchen
   - Kitchen Support
   - Kitchen Manager
   - Kitchen Assosiate
@@ -334,16 +333,15 @@ Ecommerce:
   - Ecommerce Consultant
   - Ecommerce Specialist
   - Ecommerce Merchandiser
-  - Director Of Ecommerce
-  - Vice President Of Ecommerce
+  #- Director Of Ecommerce
 Other:
   - Personal Assistant
   - Executive Assistant
 Legal: 
   - Legal Counsel
   - Compliance Counsel
-  - Director of Legal
-  - Vice President of Legal
+  #- Director of Legal
+  #- Vice President of Legal
   - Legal Assistant 
   - Paralegal
   - Paralegal Assistant
@@ -365,7 +363,8 @@ HumanResources:
   - Human Resources Coordinator
   - Recruitment Manager
   - Human Resources Generalist 
-  - Director of Human resources 
+  #- Director of Human resources 
+  #- Vice President of talent acquisition
   
 #   - Entrepreneur
 #   - Security Guard
